@@ -1,2 +1,2 @@
 # profile
-our company profile
+Our company web profile
