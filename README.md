@@ -39,8 +39,8 @@ NOTE: frontend menggunakan vue.js,
 
 1. Install dependency node.js
 run command 'npm install' lalu 'npm run dev'
-2. Install laravel/mix
-run command 'composer require laravel/mix'
+2. Install laravel-mix
+run command 'npm install laravel-mix'
 3. Modifikasi tampilan/component vue.js ada di folder resources/js/canvas-ui/
 
 NOTE: setelah melakukan modifikasi, jalan perintah 'npm run dev'
